@@ -1,0 +1,43 @@
+Body {
+ background-color: burlywood;
+
+}
+.bob {background-color: green;}
+
+#hello{background-color: lightgray;
+Margin: 1em;
+Padding-top :1em;
+Border: darkblue;
+Border-style: solid;
+};
+
+.flex-container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-color: lightgray;
+  }
+  
+  .flex-container > div {
+    background-color: darkred;
+    width: 80px;
+    margin: 2px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 16px;
+  }
+#active{
+    background-color: lightslategray;
+    text-align: center;
+    font-size: large;
+    Border: darkblue;
+    border-style: solid;
+    color: darkred ;
+}
+
+#tab{
+    border: darkred;
+    border-style: 3px double;
+    background-color: lightgray;
+    
+}
